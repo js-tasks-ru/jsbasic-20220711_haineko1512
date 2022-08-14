@@ -13,7 +13,7 @@
  *
  */
 export default class UserTable {
-  // rows = [];
+  rows = [];
   table;
   headerHeadlines = {name : "Имя", age : "Возвраст", salary : "Вес", city : "Город"};
 
